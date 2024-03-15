@@ -43,11 +43,14 @@ def deleteStudent(student_id):
 def main():
     getAllStudents()
     print("")
-    #addStudent("Satoru", "Gojo", "satorugojo@gmail.com", "2024-01-01")
+    addStudent("Satoru", "Gojo", "satorugojo@gmail.com", "2024-01-01")
+    getAllStudents()
     print("")
     #updateStudentEmail(4, "poo@gmail.com")
-    print("")
-    #deleteStudent(5)
+    #getAllStudents()
+    #print("")
+    #deleteStudent(4)
+    #getAllStudents()
     return 0
 
 
