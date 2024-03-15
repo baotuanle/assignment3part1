@@ -3,7 +3,7 @@ Bao Le 101223254
 
 DISCLAIMER: It sounds like I'm not talking properly because I had a lip surgery done and my lip is swollen so I can not talk as proper as usual.
 
-Video Link: https://www.youtube.com/watch?v=6-lGGF3HCYI
+Video Link: [https://www.youtube.com/watch?v=6-lGGF3HCYI](https://youtu.be/eLInli3m2L4)
 
 Instructions:
 - install psycopg2 the terminal:
