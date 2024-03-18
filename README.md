@@ -11,7 +11,7 @@ Instructions:
 
 Testing:
 
--Comment and uncomment whichever function you want to test accordingly.
+-press 1 to get all students, 2 to add student, 3 to update student email, 4 to delete student, q to quit program
 -Run it in VsCode with the "Run Code" triangle button.
 -Second option: Run the command "python comp3005baoleA3Part1.py" in the terminal.
 
